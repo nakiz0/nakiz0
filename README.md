@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Secure Web Applications, IoT Security Projects, and AI-Powered Object Detection Systems.<br><br>👯 I'm looking to collaborate on Cybersecurity Projects, Open Source Contributions, and Innovative Tech Solutions.<br><br>🤝 I'm looking for help with Cloud Security, Malware Analysis, and Advanced Penetration Testing.<br><br>🌱 I'm currently learning Cybersecurity, Cloud Computing, Networking, Pentesting and Resource Management .<br><br>💬 Ask me about Cybersecurity, Computer Networks, C Programming, Web Development, Linux, and IoT.<br><br>⚡ Fun fact: I enjoy turning cybersecurity concepts into practical projects that solve real-world problems.
+🔭 I'm currently working on Secure Web Applications, IoT Security Projects, and AI-Powered Object Detection Systems.<br><br>👯 I'm looking to collaborate on Cybersecurity Projects, Open Source Contributions, and Innovative Tech Solutions.<br><br>🤝 I'm looking for help with Cloud Security, Malware Analysis, and Advanced Penetration Testing.<br><br>🌱 I'm currently learning Cybersecurity, Cloud Computing, Networking, Pentesting and Resource Management .<br><br>💬 Ask me about Cybersecurity, Computer Networks, C Programming, Web Development, Linux, and IoT.<br><br>⚡ Fun fact: i can play guitar :).
 
 
 ## 🌐 Socials:
